@@ -1,0 +1,35 @@
+ 
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: white;
+    margin: 10px;
+    padding: 0;
+    font-family: "IBM Plex Sans", sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+  }
+
+  main {
+    margin: auto;
+  }
+
+  .prevCity {
+    border-radius: 5px;
+    background-color: aquamarine;
+    width: auto;
+  }
+
+  .low {
+    background-color: green;
+  }
+
+  .medium {
+    background-color: orange;
+  }
+
+  .high {
+    background-color: red;
+  }
